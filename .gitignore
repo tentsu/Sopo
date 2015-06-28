@@ -47,6 +47,8 @@ node_modules
 .brackets.json
 .module-cache
 
+bower_components
+
 
 
 # PROJECT SPECIFIC #
